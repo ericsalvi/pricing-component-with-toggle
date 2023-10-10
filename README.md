@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontendMentor.io]()
+- Solution URL: [FrontendMentor.io](https://www.frontendmentor.io/solutions/collab-solution-with-maia-for-the-pricing-component-with-toggle-x6h-kI8uVz)
 - Live Site URL: [https://ericsalvi.github.io/pricing-component-with-toggle/](https://ericsalvi.github.io/pricing-component-with-toggle/)
 
 ## My process
@@ -61,4 +61,4 @@ I am looking forward to more collaborations with [@maiaflow](https://github.com/
 
 ## Acknowledgments
 
-Thank you again Maia for wanting to do these challenges in a collaboration setting. We haven't mastered how to do the work simultaneously but it is always lots of fun screen sharing through Zoom. 
+Thank you again Maia for wanting to do these challenges in a collaboration setting. We haven't mastered how to do the work simultaneously but it is always lots of fun screen sharing through Zoom. We also used ![This Pen](https://codepen.io/kerns/pen/WNvwze) for inspiration on the toggle styling. 
